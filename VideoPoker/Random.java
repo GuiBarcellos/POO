@@ -1,10 +1,5 @@
 import java.util.Calendar;
 
-/**
- * 
- * @author Mateus Ferreira Gomes
- *
- */
 public class Random {
 	
 	private long p = 2147483648L;
